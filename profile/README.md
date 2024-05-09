@@ -2,7 +2,7 @@
     <h1>🗃️ The <strong>Joggr</strong> Archive</h1>
     <p>The Archive is a holding organization for legacy, archived, and/or unsupported projects built by the Joggr team.</p>
     <br />
-    <img src="archive.gif" align="center" width="100%" />
+    <img src="/assets/archive.gif" align="center" width="100%" />
     <br />
     <br />
     <hr />
